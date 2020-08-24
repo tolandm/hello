@@ -14,8 +14,11 @@ Program stating name
 
 int main(void){
 	
-	printf("Matthew Toland");
-	printf("Mechanical Engineering");
+	printf("Matthew Toland\n");
+	printf("Mechanical Engineering\n");
+	
+	printf("Nickalus Davis\n");
+	printf("Mechanical Engineering\n");
 	
 	return(0);
 }

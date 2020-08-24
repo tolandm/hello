@@ -15,6 +15,7 @@ Program stating name
 int main(void){
 	
 	printf("Matthew Toland");
+	printf("Mechanical Engineering");
 	
 	return(0);
 }
